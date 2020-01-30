@@ -2,6 +2,8 @@
 
 First adventure into Flutter for a Competition to build a clock face.
 
+![screen](DigitalClock_AndrewJackson.png)
+
 - [Flutter Clock Challenge](https://flutter.dev/clock)
 
 ## Prizes
